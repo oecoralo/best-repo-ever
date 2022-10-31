@@ -3,9 +3,7 @@ Hello world!!!
 
 Change is now
 
-otr cambio
+git checkout -b new-branch-1
 
-mas cambios 3
-
-
+git checkout -b new-branch-2
 
